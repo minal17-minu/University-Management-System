@@ -1,0 +1,2 @@
+install :- Apache 
+innstal: JDK 
